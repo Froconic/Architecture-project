@@ -1,0 +1,43 @@
+.contact-card {
+  width: 50%;
+}
+
+.image-box {
+  height: 150px;
+  height: 150px;
+  margin: 5px 10px;
+  background: red;
+  overflow: hidden;
+}
+
+.col.indicator-col {
+  display: flex;
+  flex-direction: row;
+}
+
+.right-display {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding: 0 50px;
+}
+
+.left-display {
+  padding: 0 50px;
+}
+
+.info-display {
+  margin-top: 10px;
+}
+
+.display-section {
+  margin: 120px 20px;
+}
+
+.thumbnail-display {
+  margin: 20px 0;
+}
+.carousel-control-basics {
+  color: #0B0505;
+  font-size: 3rem;
+}

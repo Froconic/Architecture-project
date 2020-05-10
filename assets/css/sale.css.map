@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../sass/sale.scss"
+    ],
+    "names": [],
+    "file": "sale.css"
+}

@@ -1,0 +1,18 @@
+ bg #ffffff,
+		fg rgb(158, 170, 182),
+		fg-light rgba(158, 170, 182, 0.8),
+
+		accent: (
+			bg: #562626,
+      fg: #CCFFD3,
+    ),
+
+    text: (
+      p: #F9F8F8,
+      title: #0B0505,
+      boop: #9EAAB6
+      )
+  );
+
+
+  
